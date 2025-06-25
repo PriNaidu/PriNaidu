@@ -33,15 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriNaidu&show_icons=true&theme=radical" alt="PriNaidu's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriNaidu&theme=radical" width="400"/>
-</p>
-
----
-
 ## 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mpriyanka-naidu/)
