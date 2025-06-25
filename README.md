@@ -34,11 +34,18 @@
 ---
 
 ## 📫 Let’s Connect!
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mpriyanka-naidu/)
-[![Email](https://img.shields.io/badge/-npriyanka783@gmail.com-black?style=flat-square&logo=gmail)](mailto:npriyanka783@gmail.com)
-[![X](https://img.shields.io/badge/-@M_PriyankaNaidu-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/M_PriyankaNaidu)
-</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mpriyanka-naidu/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:npriyanka783@gmail.com">
+    <img src="https://img.shields.io/badge/-npriyanka783@gmail.com-black?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://x.com/M_PriyankaNaidu">
+    <img src="https://img.shields.io/badge/-@M_PriyankaNaidu-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 
 ---
