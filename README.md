@@ -23,7 +23,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="start">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css" />
@@ -35,7 +35,7 @@
 
 ## 📫 Let’s Connect!
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/mpriyanka-naidu/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
