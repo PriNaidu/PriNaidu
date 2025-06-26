@@ -36,21 +36,14 @@ I'm passionate about crafting clean, user-centric interfaces, building accessibl
 
 ## 📊 GitHub Stats
 
-<p align="start">
-  <img src="https://komarev.com/ghpvc/?username=PriNaidu&label=Profile%20visits&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=PriNaidu&label=Profile%20visits&color=0e75b6&style=flat)
 
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriNaidu&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriNaidu&show_icons=true&theme=tokyonight)
 
-<p align="start">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PriNaidu&theme=tokyonight" alt="GitHub streaks" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriNaidu&layout=compact&theme=tokyonight)
 
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriNaidu&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
+
 
 ---
 
