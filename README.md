@@ -3,21 +3,22 @@
 
 ---
 
-🌟 Welcome to my GitHub! I’m passionate about crafting clean UI, building accessible web apps, and exploring new technologies.
+🌟 Welcome to my GitHub!  
+I'm passionate about crafting clean, user-centric interfaces, building accessible web apps, and staying curious about new technologies.
 
 ---
 
 ## 🚀 What I'm Working On
 - 🎯 Building interactive UIs with **React** & **Tailwind CSS**
 - 🧠 Diving deeper into **Node.js** and **TypeScript**
-- 🧩 Exploring reusable design systems
+- 🧩 Exploring reusable design systems and component libraries
 
 ---
 
-## 🧠 Learning Goals
-- 📐 Mastering **System Design** concepts
-- ⚙️ Writing scalable, maintainable code
-- 🤖 Exploring **AI-powered UI assistants**
+## 📘 Learning Goals
+- 📐 Mastering **System Design** principles  
+- ⚙️ Writing **scalable, maintainable** frontend architectures  
+- 🤖 Experimenting with **AI-powered UI assistants**
 
 ---
 
@@ -33,6 +34,26 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="start">
+  <img src="https://komarev.com/ghpvc/?username=PriNaidu&label=Profile%20visits&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriNaidu&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="start">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PriNaidu&theme=tokyonight" alt="GitHub streaks" />
+</p>
+
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriNaidu&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
 ## 📫 Let’s Connect!
 
 <p align="start">
@@ -40,17 +61,13 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:npriyanka783@gmail.com">
-    <img src="https://img.shields.io/badge/-npriyanka783@gmail.com-black?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=gmail" />
   </a>
   <a href="https://x.com/M_PriyankaNaidu">
     <img src="https://img.shields.io/badge/-@M_PriyankaNaidu-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
 </p>
 
-
 ---
 
-<!-- Optional Footer -->
-<p align="center">
-  🧡 Thanks for visiting my profile!
-</p>
+<p align="center">🧡 Thanks for stopping by!</p>
