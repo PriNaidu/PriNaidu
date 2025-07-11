@@ -10,7 +10,7 @@ I'm passionate about crafting clean, user-centric interfaces, building accessibl
 
 ## 🚀 What I'm Working On
 - 🎯 Building interactive UIs with **React** & **Tailwind CSS**
-- 🧠 Diving deeper into **Node.js** and **TypeScript**
+- 🧠 Diving deeper into **React.js** and **TypeScript**
 - 🧩 Exploring reusable design systems and component libraries
 
 ---
