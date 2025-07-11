@@ -38,7 +38,6 @@ I'm passionate about crafting clean, user-centric interfaces, building accessibl
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PriNaidu&label=Profile%20visits&color=0e75b6&style=flat)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriNaidu&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriNaidu&layout=compact&theme=tokyonight)
 
